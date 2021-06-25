@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hellow Juan 
+          Esta es la tienda de Juan
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/JuandGomezS"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          GITHUB DE JUAN
         </a>
       </header>
     </div>
